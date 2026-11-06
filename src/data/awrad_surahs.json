@@ -1,0 +1,16 @@
+[
+  { "id": "s1", "title": "الفاتحة", "target": 100, "is_full_surah": true, "surah_id": 1 },
+  { "id": "s2", "title": "آية الكرسي", "target": 100, "is_full_surah": false, "surah_id": 2, "ayah_from": 255, "ayah_to": 255 },
+  { "id": "s3", "title": "سورة البقرة: ٢٥٦ - ٢٥٧", "target": 33, "is_full_surah": false, "surah_id": 2, "ayah_from": 256, "ayah_to": 257 },
+  { "id": "s4", "title": "آمن الرسول (البقرة)", "target": 33, "is_full_surah": false, "surah_id": 2, "ayah_from": 285, "ayah_to": 286 },
+  { "id": "s5", "title": "الضحى", "target": 41, "is_full_surah": true, "surah_id": 93 },
+  { "id": "s6", "title": "الشرح", "target": 100, "is_full_surah": true, "surah_id": 94 },
+  { "id": "s7", "title": "الإخلاص", "target": 100, "is_full_surah": true, "surah_id": 112 },
+  { "id": "s8", "title": "الواقعة", "target": 1, "is_full_surah": true, "surah_id": 56 },
+  { "id": "s9", "title": "الملك", "target": 1, "is_full_surah": true, "surah_id": 67 },
+  { "id": "s10", "title": "يس", "target": 1, "is_full_surah": true, "surah_id": 36 },
+  { "id": "s11", "title": "سورەتی (آل عمران: ١٨ - ١٩)", "target": 33, "is_full_surah": false, "surah_id": 3, "ayah_from": 18, "ayah_to": 19 },
+  { "id": "s12", "title": "سورەتی (آل عمران: ٢٦ - ٢٧)", "target": 33, "is_full_surah": false, "surah_id": 3, "ayah_from": 26, "ayah_to": 27 },
+  { "id": "s13", "title": "سورەتی (التوبة: ١٢٨ - ١٢٩)", "target": 100, "is_full_surah": false, "surah_id": 9, "ayah_from": 128, "ayah_to": 129 },
+  { "id": "s14", "title": "سورەتی (الكهف: ١٠٧ - ١١٠)", "target": 33, "is_full_surah": false, "surah_id": 18, "ayah_from": 107, "ayah_to": 110 }
+]

@@ -1,0 +1,18 @@
+[
+  { "id": "a1", "type": "asli", "title": "لا اله الا الله", "target": 100000 },
+  { "id": "a2", "type": "asli", "title": "الله", "target": 100000 },
+  { "id": "a3", "type": "asli", "title": "یا هو", "target": 50000 },
+  { "id": "a4", "type": "asli", "title": "یا حی", "target": 50000 },
+  { "id": "a5", "type": "asli", "title": "يا واحد", "target": 50000 },
+  { "id": "a6", "type": "asli", "title": "يا عزيز", "target": 50000 },
+  { "id": "a7", "type": "asli", "title": "يا ودود", "target": 50000 },
+  { "id": "f1", "type": "fari", "title": "يا حق", "target": 50000 },
+  { "id": "f2", "type": "fari", "title": "يا قيوم", "target": 50000 },
+  { "id": "f3", "type": "fari", "title": "يا نور", "target": 50000 },
+  { "id": "f4", "type": "fari", "title": "يا وهاب", "target": 50000 },
+  { "id": "f5", "type": "fari", "title": "يا فتاح", "target": 50000 },
+  { "id": "f6", "type": "fari", "title": "يا أحد", "target": 50000 },
+  { "id": "f7", "type": "fari", "title": "يا صمد", "target": 50000 },
+  { "id": "f8", "type": "fari", "title": "يا رقيب", "target": 50000 },
+  { "id": "f9", "type": "fari", "title": "يا باصط", "target": 50000 }
+]
